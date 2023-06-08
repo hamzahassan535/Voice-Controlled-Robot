@@ -1,5 +1,8 @@
 # Voice-Controlled-Robot
 
+![bee3e856-65fc-4df4-bfce-8c1cd95d7008](https://github.com/hamzahassan535/Voice-Controlled-Robot/assets/135664238/ed9362bc-5c3b-452d-bd08-932534f8ece7)
+
+
 This project implements a voice-controlled car using Arduino and L298N motor driver. The car can be controlled by voice commands, allowing for a hands-free and interactive user experience. The Arduino board is responsible for processing the voice commands, while the L298N motor driver controls the movement of the car's motors.
 
 # Features
@@ -43,3 +46,5 @@ Speak the voice commands to control the car's movement (e.g., "forward", "backwa
 
 # Contributing
 Contributions to this project are welcome. Please feel free to submit pull requests or open issues if you encounter any problems or have suggestions for improvements.
+
+![be51b6db-caeb-4ee8-a5e2-8007977d503b](https://github.com/hamzahassan535/Voice-Controlled-Robot/assets/135664238/0fe20932-991c-4787-b82c-b5fd0a18b661)
