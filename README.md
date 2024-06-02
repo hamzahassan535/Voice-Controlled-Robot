@@ -1,43 +1,42 @@
 # Voice-Controlled-Robot
 
-![bee3e856-65fc-4df4-bfce-8c1cd95d7008](https://github.com/hamzahassan535/Voice-Controlled-Robot/assets/135664238/ed9362bc-5c3b-452d-bd08-932534f8ece7)
 
 
 This project implements a voice-controlled car using Arduino and L298N motor driver. The car can be controlled by voice commands, allowing for a hands-free and interactive user experience. The Arduino board is responsible for processing the voice commands, while the L298N motor driver controls the movement of the car's motors.
 
 # Features
 
-Control the car's movement (forward, backward, left, right) using voice commands.
+• Control the car's movement (forward, backward, left, right) using voice commands.
 
-Interactive and hands-free control system.
+• Interactive and hands-free control system.
 
-Uses Arduino and L298N motor driver for seamless integration.
+• Uses Arduino and L298N motor driver for seamless integration.
 
-Easy to set up and customize.
+• Easy to set up and customize.
 
-Hardware Requirements
+• Hardware Requirements
 
-Arduino board
+• Arduino board
 
-L298N motor driver
+• L298N motor driver
 
-DC motors
+• DC motors
 
-Bluetooth module
+• Bluetooth module
 
-Jumper wires
+• Jumper wires
 
-Power supply
+• Power supply
 
 # Installation and Setup
 
-Connect the Arduino board and L298N motor driver as per the provided circuit diagram.
+• Connect the Arduino board and L298N motor driver as per the provided circuit diagram.
 
-Upload the Arduino code to the board.
+• Upload the Arduino code to the board.
 
-Connect the Bluetooth module to establish a wireless connection.
+• Connect the Bluetooth module to establish a wireless connection.
 
-Power on the system and ensure proper functionality.
+• Power on the system and ensure proper functionality.
 
 # Usage
 Pair the Bluetooth module with a compatible device (e.g., smartphone, tablet).
